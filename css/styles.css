@@ -5,3 +5,8 @@
 .important {
   font-size: 20px
 }
+
+.fancy {
+  font-size: 18px;
+  font-family: fantasy;
+}
